@@ -10,7 +10,7 @@ para el microcontrolador Siwa utilizando metodologia agil SCRUM.
 Se desea diseñar y fabricar una PCB de pruebas para el microcontrolador SIWA,
 debera ser capaz de controlar y correr distintos programas de pruebas para el
 SIWA (Microcontrolador basado en RISC-V de baja potencia para aplicaciones 
-medicas por el ITCR).
+medicas por el ITCR)
 
 ### 1.2 Asignación de puntos de tareas
 
